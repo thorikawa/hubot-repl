@@ -1,4 +1,4 @@
-# hubot-repl-hubot
+# hubot-repl
 
 A hubot script to use Repl-AI powered by NTT docomo
 
@@ -8,13 +8,13 @@ See [`src/repl-hubot.coffee`](src/repl-hubot.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-repl-hubot --save`
+`npm install hubot-repl --save`
 
-Then add **hubot-repl-hubot** to your `external-scripts.json`:
+Then add **hubot-repl** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-repl-hubot"
+  "hubot-repl"
 ]
 ```
 
